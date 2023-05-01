@@ -1,0 +1,19 @@
+{
+  "name": "hoogeland-api",
+  "version": "1.0.0",
+  "description": "An api for an App called Hoogeland",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "Dazerstudio",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "puppeteer": "^19.11.1"
+  }
+}
